@@ -1,4 +1,4 @@
-SELECT
+SELECT 
   COUNT(*)
-FROM
-  {{ref('first_model')}}
+FROM 
+{{ ref('first_model') }} 
